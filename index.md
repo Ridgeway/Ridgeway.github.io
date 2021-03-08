@@ -17,7 +17,7 @@ Made using QGIS
 
 ---
 ### [Origin of Incoming UMBC Freshmen 2019]()
-Made using Arcgis
+Made using ArcGIS
 
 <img src="images/0001.jpg?raw=true"/>
 
