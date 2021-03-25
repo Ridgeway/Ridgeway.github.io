@@ -1,13 +1,5 @@
 ## Portfolio
 
----
-
-### [Lead Poisening in East Coast Cities]()
-Made using QGIS
-
-<img src="project1_486/final.pdf"/>
-
-https://docs.google.com/viewer?url=${project1_486/final.pdf}
 
 ---
 
