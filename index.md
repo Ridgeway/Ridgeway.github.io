@@ -1,8 +1,8 @@
-## Lab 6
+# Lab 6
 
 
 ---
-## In R I first activated all the libraries I might need and input my Census API
+## In R I first activated all the libraries I might need and input my Census API key.
 
 ```{r}
 
@@ -24,7 +24,7 @@ census_api_key("Your_api_key_here", overwrite = FALSE, install = TRUE)
 
 ```
 
-# I used tidycensus to downloaded population data for maryland counties from the years 2010 and 2000, and saved them as a CSV
+## I used tidycensus to downloaded population data for maryland counties from the years 2010 and 2000, and saved them as a CSV
 
 ```{r}
 
@@ -39,7 +39,7 @@ write.table(md_state_pop_2000, file="Maryland_Pop_2000.csv", sep=",")
 write.table(md_state_pop_2010, file="Maryland_Pop_2010.csv", sep=",")
 ```
 
-# I loaded the csv's in QGIS with Two more CSVs containing income per capita data, then used the feild calculator to calculate the changed between the years.
+## I loaded the csv's in QGIS with Two more CSVs containing income per capita data, then used the feild calculator to calculate the changed between the years.
 
 <img src="images/Atribute.png"/>
 
