@@ -2,7 +2,7 @@
 
 
 ---
-# In R I first activated all the libraries I might need and input my Census API
+## In R I first activated all the libraries I might need and input my Census API
 
 ```{r}
 
@@ -41,7 +41,7 @@ write.table(md_state_pop_2010, file="Maryland_Pop_2010.csv", sep=",")
 
 # I loaded the csv's in QGIS with Two more CSVs containing income per capita data, then used the feild calculator to calculate the changed between the years.
 
-
+<img src="images/Atribute.png"/>
 
 ---
 ### [Population Density Map of Maryland]()
