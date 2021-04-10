@@ -22,7 +22,7 @@ Made using ArcGIS
 
 ---
 
-<a href="lab6.html" title="About Me">Lab 6</a>
+<a href="lab_6.html" title="About Me">Lab 6</a>
 
 
 
