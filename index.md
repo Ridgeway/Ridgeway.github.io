@@ -44,8 +44,7 @@ write.table(md_state_pop_2010, file="Maryland_Pop_2010.csv", sep=",")
 <img src="images/Atribute.png"/>
 
 ---
-### [Population Density Map of Maryland]()
-Made using R Studio It worked
+## Finally I created a choropleth map of using the data I calculated.
 
 <img src="images/Lab_6.jpg"/>
 
