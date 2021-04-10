@@ -24,7 +24,7 @@ census_api_key("Your_api_key_here", overwrite = FALSE, install = TRUE)
 
 ```
 
-## I used tidycensus to downloaded population data for maryland counties from the years 2010 and 2000, and saved them as a CSV
+## I used tidycensus to downloaded population data for maryland counties from the years 2010 and 2000, and saved them as a CSV.
 
 ```{r}
 
