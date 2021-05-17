@@ -22,6 +22,21 @@ Made using ArcGIS
 
 ---
 
+### [Location of Brownfield Sites in Baltimore City Against Racial Breakdown]()
+Made using QGIS
+
+<img src="images/Brownfeild_vs_race-4.jpg"/>
+
+---
+
+### [Risk of Lead Poisoning Compared to Racial Breakdown in Baltimore City]()
+Made using QGIS
+
+<img src="images/Race_vs_lead_bivar-2.jpg"/>
+
+---
+
+
 <a href="https://ridgeway.github.io/GISFINAL/" title="About Me">GIS 486 Final Project</a>
 <br>
 <a href="https://github.com/Ridgeway/GISFINAL/" title="About Me">GIS 486 Final Project Backend</a>
