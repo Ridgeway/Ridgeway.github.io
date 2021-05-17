@@ -23,6 +23,7 @@ Made using ArcGIS
 ---
 
 <a href="https://ridgeway.github.io/GISFINAL/" title="About Me">GIS 486 Final Project</a>
+<br>
 <a href="https://github.com/Ridgeway/GISFINAL/" title="About Me">GIS 486 Final Project Backend</a>
 
 
