@@ -22,7 +22,7 @@ Made using ArcGIS
 
 ---
 
-<a href="https://github.com/Ridgeway/GISFINAL/blob/master/index.md" title="About Me">Lab 6</a>
+<a href="https://ridgeway.github.io/GISFINAL/" title="About Me">Lab 6</a>
 
 
 
