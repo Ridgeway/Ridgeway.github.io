@@ -22,7 +22,7 @@ Made using ArcGIS
 
 ---
 
-<a href="lab_6.html" title="About Me">Lab 6</a>
+<a href="Ridgeway/Ridgeway.github.io/lab_6.html" title="About Me">Lab 6</a>
 
 
 
